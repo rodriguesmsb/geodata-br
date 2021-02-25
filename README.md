@@ -28,14 +28,14 @@ dos municípios brasileiros dividido por estado
 * SE / Sergipe - [geojson/geojs-28-mun.json](geojson/geojs-28-mun.json)
 
 
-### Região Sudeste [geojson/geojs-sudeste-mun.json](geojson/geojs-sudeste-mun.json)
+### Região Sudeste - [geojson/geojs-sudeste-mun.json](geojson/geojs-sudeste-mun.json)
 * ES / Espíriro Santo - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
 * MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
 * RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
 * SP / São Paulo - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
 
 
-### Região Sul [geojson/geojs-sul-mun.json](geojson/geojs-sul-mun.json)
+### Região Sul - [geojson/geojs-sul-mun.json](geojson/geojs-sul-mun.json)
 * PR / Paraná - [geojson/geojs-41-mun.json](geojson/geojs-41-mun.json)
 * RS / Rio Grande do Sul - [geojson/geojs-43-mun.json](geojson/geojs-43-mun.json)
 * SC / Santa Catarina - [geojson/geojs-42-mun.json](geojson/geojs-42-mun.json)
