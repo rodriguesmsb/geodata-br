@@ -3,7 +3,7 @@ Geodata BR - Brasil
 ===================
 
 Este projeto contém arquivos [Geojson](http://geojson.org/) com os perímetros
-dos municípios brasileiros dividido por estado
+dos municípios brasileiros por país, estado e região. O projeto original pode ser acesso [aqui](https://github.com/tbrugz/geodata-br)
 
 
 ### Região Norte
